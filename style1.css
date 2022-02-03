@@ -1,10 +1,4 @@
-
-        
-        h2 {
-            color: rgb(0, 232, 15);
-        }  
-        
-        body {
-            background-color: rgb(97, 250, 255);
-        }
-            
+body {
+        background-size: cover;
+        background-image: url(IMG_2017.heic);
+}
